@@ -1,2 +1,2 @@
-# my-protfilo
+# my-protfolio
  personal protfolio
